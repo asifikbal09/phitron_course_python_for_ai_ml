@@ -1,0 +1,7 @@
+আজকে তোমরা শুরু করবে Module 10: Data Analysis with NumPy। এই মডিউলে তোমরা শিখবে NumPy সম্পর্কিত গুরুত্বপূর্ণ টপিকগুলো।
+
+মডিউলের শেষে থাকবে একটি Quiz, যা দিয়ে তোমরা শেখা বিষয়গুলো যাচাই করতে পারবে।এরপর থাকবে Quiz Explanation, যেখানে প্রতিটি প্রশ্নের ব্যাখ্যা পাবে, এবং থাকবে কিছু Extra Practice Problems প্র্যাকটিসের জন্য।
+
+মডিউলের কোডগুলো নিচের দেয়া হলঃ
+
+https://github.com/phitronio/Python-for-ML/blob/main/Module_10.ipynb
